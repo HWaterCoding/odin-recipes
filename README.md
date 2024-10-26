@@ -1,0 +1,1 @@
+This current project is going to be me attempting to make a recipe using TheOdinProjects guidance. As this is the first project in the curriculum, I'm not sure what it will entail just yet, but I will be doing it to demonstrate basic HTML skills that I have learned so far. 
